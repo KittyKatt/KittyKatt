@@ -3,6 +3,8 @@
 
 # hello world
 
-My name is **Katie** and I go by *KittyKatt*. I currently work as DevOps Engineer.
+My name is **Katie** and I go by *KittyKatt* or *itsk8ekat*. I currently work as DevOps Engineer.
 
-I have primarily written and hated myself for writing in BASH. Please take a gander at my monuments to self hatred below.
+A lot of my history in development has been in writing lengthy, complex, and far-overengineered BASH scripts. You can see a few them below.
+
+Nowadays, I mostly work in Terraform/Helm/Kubernetes and making small changes to projects I personally use without really knowing the language they're written in.
